@@ -1,7 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/4.1/index.php", "destination": "/api/index" },
-    { "source": "/4.1/index.php/", "destination": "/api/index" },
-    { "source": "/4.1/index.php/(.*)", "destination": "/api/index" }
-  ]
-}
